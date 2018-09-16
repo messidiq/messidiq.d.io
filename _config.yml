@@ -1,10 +1,10 @@
 # Site settings
-title: "Hasan Basri"
+title: "Muhammad Shiddiq F"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: creatorb45@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Muslim by Choice / Programmer by Day
+  Programmer Sunnah
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
