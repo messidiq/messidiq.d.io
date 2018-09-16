@@ -24,7 +24,7 @@ This application contains guidance and information for conducting the pilgrimage
 
 ![screenshot konsumsi](https://raw.githubusercontent.com/CreatorB/res/master/img/haji-pintar/haji-pintar-programmer-konsumsi.png)
 
-![screenshot transportasi](https://raw.githubusercontent.com/CreatorB/res/master/img/haji-pintar/haji-pintar-programmer-transportasi.png)
+![screenshot transportasi](https://raw.githubusercontent.com/CreatorB/creatorb.github.io/master/img/haji-pintar/haji-pintar-programmer-transportasi.png)
 
 
 ### Download
