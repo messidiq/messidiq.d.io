@@ -82,6 +82,30 @@ permalink: /contact/
 
 
 <!--<div class="fb-page" data-href="https://www.facebook.com/creatorb/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/creatorb/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/creatorb/">creatorb</a></blockquote></div>-->
-If you big hurry to speak with me, you can send me brief message on [_creatorbe.github.io/contact_](https://creatorbe.github.io/contact/) or text me manually by mail to [_messidiq27@gmail.com_](mailto:_messidiq27@gmail.com).
+<!--If you big hurry to speak with me, you can send me brief message on [_creatorbe.github.io/contact_](https://creatorbe.github.io/contact/) or text me manually by mail to [_messidiq27@gmail.com_](mailto:_messidiq27@gmail.com).-->
+<meta name="referrer" content="origin">
+ <form method="POST" action="http://formspree.io/messidiq27@gmail.com">
+	<div class="row">
+	<input type="hidden" name="_subject" value="CONTACT - CREATORBE LINKS" />
+		<div class="form-group col-lg-4">
+			<label>Name</label>
+			<input id="name" type="text" name="name" class="form-control">
+		</div>
+		<div class="form-group col-lg-4">
+			<label>Email Address</label>
+			<input id="email" type="email" name="_replyto" class="form-control">
+			<input type="hidden" name="_subject" value="CREATORBE LINKS" />
+		</div>
+		<div class="clearfix"></div>
+		<div class="form-group col-lg-12">
+			<label>Message</label>
+			<textarea id="message" name="message" class="form-control" rows="6"></textarea>
+			<input type="text" name="_gotcha" style="display:none" />
+		</div>
+		<div class="form-group col-lg-12">
+ 			<button type="submit">Send</button>
+		</div>
+	</div>
+</form>
 
 Thank's
