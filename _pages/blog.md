@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-`I'm programmer, i have no time` haha then true, mostly i spent my day to do a lot of coding activities and my blog still rarely update.
+`I'm a programmer` And i love it
 
 _creatorb with E_
 
